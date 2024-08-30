@@ -14,7 +14,7 @@ pip install -r requirements.txt
 1. Login to frontend
 
 
-CANARY EVN: https://app.canary.ithacanoemon.tech
+CANARY ENV: https://app.canary.ithacanoemon.tech
 PRODUCTION: https://app.ithacaprotocol.io/
 
 2. Fund account using Dashboard
