@@ -1,0 +1,3 @@
+ithaca-py==0.2.18
+python-dotenv==1.0.1
+requests==2.30.0
